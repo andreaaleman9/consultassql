@@ -13,6 +13,8 @@ Este proyecto contiene el diseño e implementación de una base de datos relacio
 
 La base de datos se compone de 6 tablas principales relacionadas mediante llaves foráneas
 
+![DER base de datos db_gestion_alojamientos_turisticos ](DER.pgerd.png)
+
 ### 1. Tabla: `propietarios`
 Almacena la información de las personas que ponen en alquiler sus propiedades.
 * `id_propietario` (SERIAL, PK): Identificador único del propietario.
